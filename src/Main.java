@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Main {
     static String[] unitRoman = {"N", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X"};
-    static String[] decimalRoman = {"N", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "CX", "C"};
+    static String[] decimalRoman = {"N", "X", "XX", "XXX", "XL", "L", "LX", "LXX", "LXXX", "XC", "C"};
 
     public static void main(String[] args) {
         System.out.println("Строка: ");
